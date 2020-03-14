@@ -17,6 +17,7 @@ a {
 
 .container {
   max-width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -100,7 +101,7 @@ header {
 
 .header-right {
   float: right;
-  margin-right: -25px;
+  margin-right: -20px;
 }
 
 .header-right a {
@@ -116,13 +117,16 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.menu-icon{
+/* Add CSS for menu-icon */
+.menu-icon {
   color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  display: none;
+  /* Change the display property to none */
+  display:none;
 }
+
 
 .lesson-wrapper {
   padding-bottom: 80px;
