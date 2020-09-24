@@ -1,1 +1,1 @@
-# THE-PRO
+Just the trial repository
